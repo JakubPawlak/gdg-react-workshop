@@ -1,6 +1,7 @@
+//Manifest for PWA
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "GDG Workshop",
+  "name": "GDG Workshop React App",
   "icons": [
     {
       "src": "favicon.ico",
